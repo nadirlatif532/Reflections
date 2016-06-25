@@ -1,13 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+to create a repos in our folder so that the files can be tracked
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+it allows us to select the files we want to commit before we actually commit them
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+by checking them with the latest commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+when i want to take my project in a different direction and keep the old one too i will use a new branch
 
 How do the diagrams help you visualize the branch structure?
 
