@@ -19,6 +19,8 @@ when i want to take my project in a different direction and keep the old one too
 
 How do the diagrams help you visualize the branch structure?
 
+it makes it easier to know where each branch lies and its specific commits
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
